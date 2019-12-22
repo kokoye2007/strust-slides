@@ -1,4 +1,4 @@
-# strust-slides
+# strut-slides
 
 ## Install Strust
 
