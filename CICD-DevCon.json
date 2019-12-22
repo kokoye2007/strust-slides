@@ -134,7 +134,7 @@
           },
           "type": "TextBox",
           "size": 127,
-          "text": "<font face=\"Fredoka One\"><font color=\"#ffffff\">CD / CD</font><br></font>",
+          "text": "<font face=\"Fredoka One\"><font color=\"#ffffff\">CI / CD</font><br></font>",
           "selected": false
         }
       ],
