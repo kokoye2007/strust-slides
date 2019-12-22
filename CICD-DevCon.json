@@ -1,0 +1,1070 @@
+{
+  "slides": [
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 327,
+          "y": 128,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font face=\"League Gothic, sans-serif\" style=\"\">DevCon</font><br>",
+          "size": 188,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 727,
+          "y": 503,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<div style=\"text-align: center;\"><span style=\"font-family: &quot;Abril Fatface&quot;, cursive;\">22 Dec, 2019</span></div><div style=\"text-align: center;\">MICT Park</div>",
+          "size": 24,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 411,
+          "y": 352,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font face=\"Abril Fatface\">CI/CD</font>",
+          "size": 72,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 0,
+      "selected": false,
+      "active": false,
+      "x": 180,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 191,
+          "y": 199,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 92,
+          "text": "<font face=\"Abril Fatface\" color=\"#ffffff\">Ko Ko Ye`</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 422,
+          "y": 379,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font color=\"#ffffff\"><font face=\"Ubuntu, sans-serif\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; kokoye2007@gmail.com<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; kokoye2007@ubuntu.com<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;fb.com/kokoye2007<br>&nbsp; twitter.com/kokoye2007<br><br></font>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;09 4500 22022<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;09 7989 22022<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;09 6979 22022<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br></font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 1,
+      "selected": false,
+      "active": false,
+      "background": "bg-solid-black",
+      "x": 460,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 214,
+          "y": 122,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 38,
+          "text": "<ul><li><font face=\"Fredoka One, cursive\" color=\"#eeeeee\">Ubuntu Official Member</font></li><li><font face=\"Fredoka One, cursive\" color=\"#eeeeee\">Ubuntu Myanmar LoCo Team</font></li><li><font face=\"Fredoka One, cursive\" color=\"#eeeeee\">Ubuntu Shan L10n</font></li><li><font face=\"Fredoka One, cursive\" color=\"#eeeeee\">Ubuntu Mon L10n</font></li><li><font face=\"Fredoka One, cursive\" color=\"#eeeeee\">Open Data Myanmar</font></li><li><font face=\"Fredoka One, cursive\" color=\"#eeeeee\">Raspberry Pi - Myanmar</font></li><li><font face=\"Fredoka One, cursive\" color=\"#eeeeee\">Arduino - Yangon / Myanmar</font></li><li><font face=\"Fredoka One, cursive\" color=\"#eeeeee\">FOSS Myanmar</font></li><li><font face=\"Fredoka One, cursive\" color=\"#eeeeee\">FOSS Asia</font></li><li><font face=\"Fredoka One, cursive\" color=\"#eeeeee\">State of the Maps - SEAsia</font></li><li><font face=\"Fredoka One, cursive\" color=\"#eeeeee\">State of the Maps - Myanmar</font></li><li><font face=\"Fredoka One, cursive\" color=\"#eeeeee\">Google Code in - Mentor</font></li><li><font face=\"Fredoka One, cursive\" color=\"#eeeeee\">Barcamp / DevCon / BootCamp</font></li></ul><font face=\"Ubuntu\"><br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 2,
+      "selected": false,
+      "active": false,
+      "background": "bg-solid-sky",
+      "x": 740,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 271,
+          "y": 307,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 127,
+          "text": "<font face=\"Fredoka One\"><font color=\"#ffffff\">CD / CD</font><br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 3,
+      "selected": false,
+      "active": false,
+      "background": "bg-solid-black",
+      "x": 1020,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 207,
+          "y": 357,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<ul><li><font color=\"#ff0000\">Corporate identity</font></li><li><font color=\"#ff0000\">Corporate design</font></li></ul><br>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 411,
+          "y": 217,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font face=\"Abril Fatface, cursive\" style=\"\" color=\"#ffffff\">CI/CD</font><br>",
+          "size": 72,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 4,
+      "selected": false,
+      "active": false,
+      "background": "bg-solid-black",
+      "x": 1300,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 138,
+          "y": 189,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 127,
+          "text": "<font face=\"Fredoka One\"><font color=\"#ffffff\">CI</font><br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 148,
+          "y": 390,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#eeeeee\">Continuous integration<br></font><br>",
+          "size": 72,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 5,
+      "selected": false,
+      "active": false,
+      "background": "bg-solid-darkgreen",
+      "x": 1580,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 138,
+          "y": 189,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 127,
+          "text": "<font face=\"Fredoka One\"><font color=\"#ffffff\">CD</font><br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 148,
+          "y": 390,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#eeeeee\">Continuous delivery<br>&lt;aka&gt;<br>Continuous deployment<br><br></font><br>",
+          "size": 72,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 6,
+      "selected": false,
+      "active": false,
+      "background": "bg-solid-darkgreen",
+      "x": 1860,
+      "y": 460
+    },
+    {
+      "components": [
+        {
+          "src": "https://www.redhat.com/cms/managed-files/ci-cd-flow-desktop_1.png",
+          "type": "Image",
+          "x": 108,
+          "y": 295,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 451,
+          "y": 643,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#000000\" face=\"Ubuntu\">RedHat</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 7,
+      "selected": false,
+      "active": false,
+      "x": 2140,
+      "y": 460
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 561,
+          "y": 686,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font face=\"Droid Sans Mono, monospace\" color=\"#000000\">ref:http://softarchpractices.blogspot.com/2018/12/devops-breakdown-of-common.html</font>",
+          "size": 8,
+          "selected": false
+        },
+        {
+          "src": "https://1.bp.blogspot.com/-H_p3ZWat7MA/XA3BFYQm5wI/AAAAAAAAiCU/j9XRSg-c_BIXqDAbdeNWG7jbfqXcHmfNgCLcBGAs/s1600/DOSTAGES.png",
+          "type": "Image",
+          "x": 82,
+          "y": 183,
+          "scale": {
+            "x": 0.5375,
+            "y": 0.5375,
+            "width": 860,
+            "height": 402.5875
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 8,
+      "selected": false,
+      "active": false,
+      "background": "bg-solid-light",
+      "x": 2420,
+      "y": 460
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 129,
+          "y": 187,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<ul><li><font face=\"Ubuntu, sans-serif\"><font color=\"#000000\">Maintain a code repository</font></font></li><li><font face=\"Ubuntu, sans-serif\">Automate the build</font></li><li><font face=\"Ubuntu, sans-serif\">Make the build self-testing</font></li><li><font face=\"Ubuntu, sans-serif\">Everyone commits to the baseline every day</font></li><li><font face=\"Ubuntu, sans-serif\">Every commit (to baseline) should be built</font></li><li><font face=\"Ubuntu, sans-serif\">Keep the build fast</font></li><li><font face=\"Ubuntu, sans-serif\">Test in a clone of the production environment</font></li><li><font face=\"Ubuntu, sans-serif\">Make it easy to get the latest deliverables</font></li><li><font face=\"Ubuntu, sans-serif\">Everyone can see the results of the latest build</font></li><li><font face=\"Ubuntu, sans-serif\">Automate deployment</font></li></ul>",
+          "selected": false,
+          "skewX": 0
+        },
+        {
+          "TextBox": {},
+          "x": 472,
+          "y": 666,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#000000\" face=\"Ubuntu\">Wiki</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 9,
+      "selected": false,
+      "active": false,
+      "x": 2700,
+      "y": 460
+    },
+    {
+      "components": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Continuous_Delivery_process_diagram.svg/1462px-Continuous_Delivery_process_diagram.svg.png",
+          "type": "Image",
+          "x": 84,
+          "y": 77,
+          "scale": {
+            "x": 0.585499316005472,
+            "y": 0.585499316005472,
+            "width": 856.0000000000001,
+            "height": 613.6032831737347
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 507,
+          "y": 701,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#000000\" face=\"Ubuntu\">wiki</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 10,
+      "selected": false,
+      "active": false,
+      "background": "bg-solid-light",
+      "x": 2980,
+      "y": 460
+    },
+    {
+      "components": [
+        {
+          "src": "https://www.edureka.co/blog/content/ver.1531719070/uploads/2018/07/What-is-Devops-CI-CD-Pipeline-Edureka.png",
+          "type": "Image",
+          "x": 42,
+          "y": 157,
+          "scale": {
+            "x": 0.8290748898678414,
+            "y": 0.8290748898678414,
+            "width": 941,
+            "height": 453.50396475770924
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 490,
+          "y": 698,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 14,
+          "text": "<font color=\"#000000\" face=\"Ubuntu\">https://dzone.com/articles/learn-how-to-setup-a-cicd-pipeline-from-scratch</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 11,
+      "selected": false,
+      "active": false,
+      "x": 3260,
+      "y": 460
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 490,
+          "y": 698,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 14,
+          "text": "<font color=\"#000000\" face=\"Ubuntu\">https://dzone.com/articles/learn-how-to-setup-a-cicd-pipeline-from-scratch</font>",
+          "selected": false
+        },
+        {
+          "src": "https://www.edureka.co/blog/content/ver.1531719070/uploads/2018/07/DevOps-Stages-CI-CD-Pipeline-Edureka.png",
+          "type": "Image",
+          "x": 22,
+          "y": 123,
+          "scale": {
+            "x": 0.8634361233480177,
+            "y": 0.8634361233480177,
+            "width": 980,
+            "height": 522.3788546255507
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 12,
+      "selected": false,
+      "active": false,
+      "x": 3540,
+      "y": 740
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 490,
+          "y": 698,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 14,
+          "text": "<font color=\"#000000\" face=\"Ubuntu\">https://dzone.com/articles/learn-how-to-setup-a-cicd-pipeline-from-scratch</font>",
+          "selected": false
+        },
+        {
+          "src": "https://www.edureka.co/blog/content/ver.1531719070/uploads/2018/07/Asset-33-1.png",
+          "type": "Image",
+          "x": 43,
+          "y": 139,
+          "scale": {
+            "x": 0.45849609375,
+            "y": 0.45849609375,
+            "width": 939,
+            "height": 401.642578125
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 13,
+      "selected": false,
+      "active": false,
+      "x": 3820,
+      "y": 740
+    },
+    {
+      "components": [
+        {
+          "src": "https://www.jared.com/productimages/processed/V-023958200_0_800.jpg?pristine=true",
+          "type": "Image",
+          "x": 204,
+          "y": 76,
+          "scale": {
+            "x": 0.77,
+            "y": 0.77,
+            "width": 616,
+            "height": 616
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 294,
+          "y": 721,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 8,
+          "text": "<font color=\"#000000\" face=\"Droid Sans Mono\">https://www.jared.com/diamond-infinity-ring-15-ct-tw-roundcut-10k-yellow-gold/p/V-023958200</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 14,
+      "selected": false,
+      "active": false,
+      "background": "bg-solid-light",
+      "x": 4100,
+      "y": 740
+    },
+    {
+      "components": [
+        {
+          "src": "https://ae01.alicdn.com/kf/HTB11s8daiDxK1Rjy1zcq6yGeXXaZ/925-Sterling-Silver-Infinity-Ring-Personalized-or-Non-Customized-Eternity-Ring-Endless-Love-Gift-Rings-for.jpg",
+          "type": "Image",
+          "x": 163,
+          "y": 15,
+          "scale": {
+            "x": 0.688,
+            "y": 0.688,
+            "width": 688,
+            "height": 688
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 403,
+          "y": 731,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 8,
+          "text": "<font color=\"#000000\" face=\"Droid Sans Mono\">https://www.aliexpress.com/item/1279310432.html</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 15,
+      "selected": false,
+      "active": false,
+      "background": "bg-solid-light",
+      "x": 4380,
+      "y": 740
+    },
+    {
+      "components": [
+        {
+          "src": "https://blog.contus.com/wp-content/uploads/2019/09/devops-implementation.png",
+          "type": "Image",
+          "x": 112,
+          "y": 162,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 546,
+          "y": 667,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 13,
+          "text": "<font color=\"#000000\" face=\"Droid Sans Mono\">https://blog.contus.com/how-to-implement-devops/</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 16,
+      "selected": false,
+      "active": false,
+      "background": "bg-solid-purple",
+      "x": 4660,
+      "y": 740
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 546,
+          "y": 667,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 13,
+          "text": "<font color=\"#000000\" face=\"Droid Sans Mono\">https://blog.contus.com/how-to-implement-devops/</font>",
+          "selected": false
+        },
+        {
+          "src": "https://blog.contus.com/wp-content/uploads/2019/09/Devops-tools.png",
+          "type": "Image",
+          "x": 58,
+          "y": 144,
+          "scale": {
+            "x": 0.6485714285714286,
+            "y": 0.6485714285714286,
+            "width": 908,
+            "height": 503.94
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 17,
+      "selected": false,
+      "active": false,
+      "background": "bg-solid-darkgreen",
+      "x": 4940,
+      "y": 740
+    },
+    {
+      "components": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0380/3313/products/1-1_4e3196ef-6dd7-474a-b6e4-fc11ba103447.png?v=1444892272",
+          "type": "Image",
+          "x": 166,
+          "y": 38,
+          "scale": {
+            "x": 0.6228622862286228,
+            "y": 0.6228622862286228,
+            "width": 692,
+            "height": 692
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 18,
+      "selected": false,
+      "active": false,
+      "surface": "bg-surf-grad-light",
+      "x": 5220,
+      "y": 1020
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 355,
+          "y": 197,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 53,
+          "text": "<ul><li><font color=\"#000000\"><font face=\"Ubuntu\">Coding</font></font></li><li><font color=\"#000000\">Building&nbsp;</font></li><li><font color=\"#000000\">Testing&nbsp;</font></li><li><font color=\"#000000\">Packaging&nbsp;</font></li><li><font color=\"#000000\">Releasing&nbsp;</font></li><li><font color=\"#000000\">Configuring&nbsp;</font></li><li><font color=\"#000000\">Monitoring&nbsp;</font></li></ul>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 19,
+      "selected": false,
+      "active": false,
+      "x": 5500,
+      "y": 1020,
+      "markdown": ""
+    },
+    {
+      "components": [
+        {
+          "src": "https://marketplace-cdn.atlassian.com/s/public/devops-hero-1-87966cfbc9c5713ae047551c7b22985c.png",
+          "type": "Image",
+          "x": 22,
+          "y": 109,
+          "scale": {
+            "x": 0.6502986065029861,
+            "y": 0.6502986065029861,
+            "width": 980,
+            "height": 550.8029197080292
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 77,
+          "y": 699,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#000000\" face=\"Ubuntu\">https://marketplace.atlassian.com/categories/devops</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 20,
+      "selected": false,
+      "active": false,
+      "x": 5780,
+      "y": 1020
+    },
+    {
+      "components": [
+        {
+          "src": "https://newrelic-wpengine.netdna-ssl.com/wp-content/uploads/devops_toolchain.png",
+          "type": "Image",
+          "x": 167,
+          "y": 147,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 624,
+          "y": 693,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 14,
+          "text": "<font color=\"#000000\" face=\"Ubuntu\">https://blog.newrelic.com/technology/devops-secrets/</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 21,
+      "selected": false,
+      "active": false,
+      "background": "bg-solid-light",
+      "x": 6060,
+      "y": 1020
+    },
+    {
+      "components": [
+        {
+          "src": "https://i.imgur.com/SAb7jUh.png",
+          "type": "Image",
+          "x": 144,
+          "y": 263,
+          "scale": {
+            "x": 0.5089903181189488,
+            "y": 0.5089903181189488,
+            "width": 736,
+            "height": 242.27939142461963
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 498,
+          "y": 638,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 15,
+          "text": "<font color=\"#000000\" face=\"Ubuntu\">Wiki<br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 153,
+          "y": 129,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#000000\" face=\"Ubuntu\">Continuous configuration automation (CCA)</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 22,
+      "selected": false,
+      "active": false
+    },
+    {
+      "components": [
+        {
+          "src": "https://devops-myanmar.gitbook.io/docker-quick-start/",
+          "type": "WebFrame",
+          "x": 130,
+          "y": 16,
+          "scale": {
+            "x": 0.8145833333333333,
+            "y": 0.8145833333333333,
+            "width": 782,
+            "height": 625.6
+          },
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 64,
+          "y": 661,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#000000\" face=\"Ubuntu\">https://devops-myanmar.gitbook.io/docker-quick-start/</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 23,
+      "selected": false,
+      "active": false,
+      "markdown": "",
+      "x": 6340,
+      "y": 1020
+    },
+    {
+      "components": [
+        {
+          "src": "http://docker-study-jams.herokuapp.com/",
+          "type": "WebFrame",
+          "x": 156,
+          "y": 31,
+          "scale": {
+            "x": 0.7802083333333333,
+            "y": 0.7802083333333333,
+            "width": 749,
+            "height": 599.1999999999999
+          },
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 188,
+          "y": 638,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#000000\" face=\"Ubuntu\">http://docker-study-jams.herokuapp.com/</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 107,
+          "y": 681,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#000000\" face=\"Ubuntu\">https://github.com/fossmyanmar/docker-kubernetes</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 24,
+      "selected": true,
+      "active": true
+    }
+  ],
+  "activeSlide": {
+    "components": [
+      {
+        "src": "http://docker-study-jams.herokuapp.com/",
+        "type": "WebFrame",
+        "x": 156,
+        "y": 31,
+        "scale": {
+          "x": 0.7802083333333333,
+          "y": 0.7802083333333333,
+          "width": 749,
+          "height": 599.1999999999999
+        },
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 188,
+        "y": 638,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 36,
+        "text": "<font color=\"#000000\" face=\"Ubuntu\">http://docker-study-jams.herokuapp.com/</font>",
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 107,
+        "y": 681,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 36,
+        "text": "<font color=\"#000000\" face=\"Ubuntu\">https://github.com/fossmyanmar/docker-kubernetes</font>",
+        "selected": false
+      }
+    ],
+    "z": 0,
+    "impScale": 3,
+    "rotateX": 0,
+    "rotateY": 0,
+    "rotateZ": 0,
+    "index": 24,
+    "selected": true,
+    "active": true
+  },
+  "fileName": "CICD.strut",
+  "deckVersion": "1.0",
+  "customBackgrounds": {
+    "bgs": []
+  },
+  "overviewX": null,
+  "overviewY": null
+}
